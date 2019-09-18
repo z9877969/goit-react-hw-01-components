@@ -1,0 +1,56 @@
+@import '../../styles/fonts.css';
+
+.transactionHistory {
+  width: 872px;
+  margin: 0 auto 10px;
+  font-family: 'HelveticaNeueCyr';
+  border-collapse: collapse;
+}
+
+.transactionHistory th {
+  width: 291px;
+  text-transform: uppercase;
+  background-color: #00bcd4;
+  border-left: 1px solid #e0e6e7;
+  border-right: 1px solid #e0e6e7;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.09px;
+  color: #fff;
+}
+
+.transactionHistory th:first-child {
+  box-sizing: border-box;
+  padding-left: 113px;
+  text-align: left;
+}
+
+.transactionHistory tr:nth-child(2n + 1) {
+  background-color: #fff;
+}
+
+.transactionHistory tr:nth-child(2n) {
+  background-color: #ecf2f3;
+}
+
+.transactionHistory td {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0.09px;
+  color: #5c6975;
+  border-left: 1px solid #e0e6e7;
+  border-right: 1px solid #e0e6e7;
+}
+
+.transactionHistory td:first-child {
+  text-transform: capitalize;
+  padding-left: 113px;
+  text-align: left;
+}
+
+.transactionHistory td:last-child {
+  text-transform: uppercase;
+}

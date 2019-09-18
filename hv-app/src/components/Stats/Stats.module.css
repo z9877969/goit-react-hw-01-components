@@ -1,0 +1,65 @@
+@import url('../../styles/fonts.css');
+
+.statsSection {
+  width: 376px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 62px 0 62px;
+  background-color: #f0f3f6;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
+  font-family: 'Proxima Nova';
+}
+
+.title {
+  margin: 0;
+  width: 268px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.01px;
+  color: #475965;
+}
+
+.statList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 268px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.item {
+  width: 67px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.label,
+.percentage {
+  line-height: 20px;
+  letter-spacing: 0.025px;
+  color: #fff;
+}
+
+.label {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.percentage {
+  font-size: 18px;
+  font-weight: 400;
+}

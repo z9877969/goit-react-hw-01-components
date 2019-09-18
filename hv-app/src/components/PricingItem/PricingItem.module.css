@@ -1,0 +1,74 @@
+@import url('../../styles/fonts.css');
+
+.pricingItem {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  width: 120px;
+  padding: 30px 30px;
+  font-family: 'Oswald';
+  font-weight: 400;
+}
+
+.icon {
+  width: 86px;
+  height: 65px;
+  margin-bottom: 10px;
+  display: block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+
+.label {
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.05px;
+  line-height: normal;
+}
+
+.capacity {
+  margin: 0 0 5px;
+  font-size: 13px;
+  letter-spacing: 0.05px;
+  line-height: normal;
+  color: #b4b4b4;
+}
+
+.description {
+  text-align: center;
+  margin: 0 0 15px;
+  height: 46px;
+  font-family: 'Raleway';
+  font-size: 10px;
+  line-height: 15px;
+  letter-spacing: 0.05px;
+  color: #bababa;
+  overflow: hidden;
+}
+
+.price {
+  margin: 0 0 10px;
+  font-size: 28px;
+  letter-spacing: 0.01px;
+  line-height: normal;
+  color: #7f8c8d;
+}
+
+.button {
+  margin: 0;
+  width: 80px;
+  height: 20px;
+  text-transform: uppercase;
+  font-family: 'Oswald';
+  font-size: 10px;
+  letter-spacing: 0.05px;
+  line-height: normal;
+  color: #fff;
+  border: none;
+}
