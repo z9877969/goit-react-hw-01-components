@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components/static/css/main.6730fd51.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.64d8782e.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.64d8782e.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-01-components/static/js/runtime~main.6a208876.js",
+    "runtime~main.js.map": "/goit-react-hw-01-components/static/js/runtime~main.6a208876.js.map",
+    "static/js/2.e8dcdaea.chunk.js": "/goit-react-hw-01-components/static/js/2.e8dcdaea.chunk.js",
+    "static/js/2.e8dcdaea.chunk.js.map": "/goit-react-hw-01-components/static/js/2.e8dcdaea.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "precache-manifest.eaf67b0e160af20eb2e6dceebcd46c88.js": "/goit-react-hw-01-components/precache-manifest.eaf67b0e160af20eb2e6dceebcd46c88.js",
+    "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.6730fd51.chunk.css.map": "/goit-react-hw-01-components/static/css/main.6730fd51.chunk.css.map",
+    "static/media/TransactionHistory.module.css": "/goit-react-hw-01-components/static/media/Raleway-Regular.3f13c93f.woff2"
+  }
+}
